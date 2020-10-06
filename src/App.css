@@ -17,7 +17,7 @@
 }
 
 body {
-  background-color: var(--background-color-blue);
+  background-color: var(--container-color);
   -webkit-font-smoothing: antialiased;
 }
 
