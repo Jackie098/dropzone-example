@@ -57,6 +57,10 @@ const Home = () => {
             styles={{
               dropzoneActive: { borderColor: "green" },
               dropzoneReject: { borderColor: "red" },
+              dropzone: {
+                borderColor: "#21D3EB",
+                boxShadow: "5px 5px 5px rgba(0, 0, 0, 0.3)",
+              },
             }}
             accept="text/csv"
           ></Dropzone>
