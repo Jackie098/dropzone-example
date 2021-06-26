@@ -1,4 +1,4 @@
-Uso da lib react-dropzone-uploader, ReactJS e Typescript.
+Use of react-dropzone-uploader lib, ReactJS and Typescript.
 
 ## 1º
 
@@ -6,15 +6,15 @@ Uso da lib react-dropzone-uploader, ReactJS e Typescript.
 
 ## 2º 
 
-Vá até o repositório, abra no terminal e execute:
+Go to the repository, open it in the terminal and run:
 
 `yarn`
 
-Isto para ele baixar todas as dependências.
+This for him to download all dependencies.
 
 ## 3º
 
-Após terminar o download, basta executar ainda no terminal:
+After finishing the download, just run it in the terminal:
 
 `yarn start`
 
